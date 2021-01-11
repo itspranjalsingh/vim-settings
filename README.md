@@ -1,2 +1,3 @@
 # vim-settings
-NeoVim Configs
+## NeoVim Configs
+Just clone this repo inside ~/.config/nvim
